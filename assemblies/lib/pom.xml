@@ -53,7 +53,7 @@
     <flexjson.version>2.1</flexjson.version>
     <!-- jackson-databind depends on jackson-core and jackson-annotations
     so that this artifacts have the same version to prevent compile errors -->
-    <fasterxml.jackson.core.version>2.9.2</fasterxml.jackson.core.version>
+    <fasterxml.jackson.core.version>2.9.5</fasterxml.jackson.core.version>
     <jersey-multipart.version>1.19.1</jersey-multipart.version>
     <mimepull.version>1.9.3</mimepull.version>
     <jsr311-api.version>1.1.1</jsr311-api.version>
@@ -61,13 +61,13 @@
     <enunciate-core-annotations.version>1.27</enunciate-core-annotations.version>
     <kafka-clients.version>0.10.2.1</kafka-clients.version>
     <tyrus-standalone-client.version>1.13.1</tyrus-standalone-client.version>
-    <spark.version>2.1.0</spark.version>
+    <spark.version>2.3.0</spark.version>
     <databricks.version>4.0.0</databricks.version>
     <paho.version>1.2.0</paho.version>
     <bahir.version>2.1.1</bahir.version>
 
     <!-- Spring -->
-    <springframework4.version>4.3.2.RELEASE</springframework4.version>
+    <springframework4.version>4.3.18.RELEASE</springframework4.version>
     <springframework4-security.version>4.2.3.RELEASE</springframework4-security.version>
   </properties>
 
