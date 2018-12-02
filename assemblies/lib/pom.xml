@@ -33,7 +33,7 @@
     <org.apache.karaf.util.version>3.0.3</org.apache.karaf.util.version>
     <org.apache.karaf.jaas.boot.version>2.4.2</org.apache.karaf.jaas.boot.version>
     <org.apache.felix.main.version>4.2.1</org.apache.felix.main.version>
-    <derby.version>10.2.1.6</derby.version>
+    <derby.version>10.12.1.1</derby.version>
     <derbyclient.version>10.2.1.6</derbyclient.version>
     <hsqldb.version>2.3.2</hsqldb.version>
     <jaybird.version>2.1.6</jaybird.version>
@@ -61,14 +61,14 @@
     <enunciate-core-annotations.version>1.27</enunciate-core-annotations.version>
     <kafka-clients.version>0.10.2.1</kafka-clients.version>
     <tyrus-standalone-client.version>1.13.1</tyrus-standalone-client.version>
-    <spark.version>2.1.0</spark.version>
+    <spark.version>2.3.0</spark.version>
     <databricks.version>4.0.0</databricks.version>
     <paho.version>1.2.0</paho.version>
     <bahir.version>2.1.1</bahir.version>
 
     <!-- Spring -->
-    <springframework4.version>4.3.2.RELEASE</springframework4.version>
-    <springframework4-security.version>4.2.3.RELEASE</springframework4-security.version>
+    <springframework4.version>4.3.20.RELEASE</springframework4.version>
+    <springframework4-security.version>4.2.4.RELEASE</springframework4-security.version>
   </properties>
 
   <dependencies>
